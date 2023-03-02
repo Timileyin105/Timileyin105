@@ -4,7 +4,7 @@
 - 📫 How to reach me on whatsapp +2348165266243
 
 /// Salutation ////
-@
+```
 function logSkills(...skills: Array<string>){
     return function (target: any, propertyKey: string, descriptor: PropertyDescriptor) {
         const originalMethod = descriptor.value;
@@ -51,18 +51,21 @@ class Salutation {
 
 const _Salutation = new Salutation();
 _Salutation.logName('Kind Regards');
-   
+```   
   ///result 
   
-I have advance experience and knowledge in the following tech skills: Javascript, Nodejs, Typscript, Jquery, Angular, PHP, and more...
+I have advance experience and knowledge in the following tech skills: Javascript, Nodejs, Typscript, Jquery, Angular, PHP, and more... 
+ <br>
 I will be glad working with you kinldy a send me mail oluwayomitimileyin1105@gmail.com
+ <br>
 Kind Regards
+ <br>
 Oluwayomi Timileyin
 
   
   /// Language ///
   
-  Typscript
+  TypeScript
   
   /// readme  ///
   
