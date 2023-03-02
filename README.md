@@ -4,7 +4,7 @@
 - 📫 How to reach me on whatsapp +2348165266243
 
 /// Salutation ////
-
+@
 function logSkills(...skills: Array<string>){
     return function (target: any, propertyKey: string, descriptor: PropertyDescriptor) {
         const originalMethod = descriptor.value;
